@@ -74,13 +74,10 @@
 
 ### 📱 App Inventor 화면 캡처
 
-- 알림 전송 로직 블록 구성  
   ![App Screen 1](https://github.com/Kim-geun-woo/Smartphone-Notification-Display-Project/raw/main/images/image5.png)
 
-- 메시지 알림 처리 블록  
   ![App Screen 2](https://github.com/Kim-geun-woo/Smartphone-Notification-Display-Project/raw/main/images/image6.png)
 
-- 전화 알림 처리 블록  
   ![App Screen 3](https://github.com/Kim-geun-woo/Smartphone-Notification-Display-Project/raw/main/images/image7.png)
 
 > 위 이미지들은 `images/` 폴더에 업로드된 App Inventor 블록 구성입니다.
