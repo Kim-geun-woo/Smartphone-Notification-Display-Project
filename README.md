@@ -1,4 +1,4 @@
-**Arduino + Bluetooth 기반 실시간 스마트폰 알림 시각화 시스템**
+# Arduino + Bluetooth 기반 실시간 스마트폰 알림 시각화 시스템
 
 ---
 
