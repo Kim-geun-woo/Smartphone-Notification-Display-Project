@@ -53,10 +53,9 @@
 
 ## 🔧 사용 부품 및 도구
 
-- Arduino UNO × 3  
+- Arduino UNO 
 - HC-06 Bluetooth 모듈  
 - 8x8 도트 매트릭스 LED  
-- 버튼 × 2  
 - App Inventor (스마트폰 알림 송신 앱 제작)  
 - Slack, Notion (프로젝트 관리 도구)
 
