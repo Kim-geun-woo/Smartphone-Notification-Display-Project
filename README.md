@@ -103,7 +103,7 @@
 
 ## 📎 관련 링크
 
-- 발표자료 PDF: [`docs/감자단_스마트폰알림표시기_발표자료.pdf`](https://github.com/Kim-geun-woo/Smartphone-Notification-Display-Project/blob/main/docs/%EA%B0%90%EC%9E%90%EB%8B%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%202.pdf)
+- 발표자료 PDF: [docs/감자단_스마트폰알림표시기_발표자료.pdf](https://github.com/Kim-geun-woo/Smartphone-Notification-Display-Project/blob/main/docs/%EA%B0%90%EC%9E%90%EB%8B%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%202.pdf)
 
 ---
 
