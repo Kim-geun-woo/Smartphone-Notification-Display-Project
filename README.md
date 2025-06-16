@@ -72,7 +72,7 @@
 
 ## 🖼️ 앱 화면 및 시연 영상
 
-### 📱 App Inventor 화면 캡처
+###  App Inventor 화면 캡처
 
   ![App Screen 1](https://github.com/Kim-geun-woo/Smartphone-Notification-Display-Project/raw/main/images/image5.png)
 
@@ -86,7 +86,7 @@
 
 ### 🎥 시연 영상
 
-- 📽️ [작동 시연 영상 보기 (YouTube)](https://youtu.be/VfttXtVv2RY)
+-  [작동 시연 영상 보기 (YouTube)](https://youtu.be/VfttXtVv2RY)
 
 > 스마트폰에서 알림 발생 시 도트 매트릭스가 아이콘으로 반응하는 과정을 담은 실시간 시연 영상입니다.
 
